@@ -43,13 +43,13 @@
   
   "clicks_to_show_inter": 2,
   "native_rate": 2,
-    "onesignal_id": "xxx",
+    "onesignal_id": "1d57e958-f2f7-41a8-88a4-032f45afacb6",
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdcXAn2.webp",
+	 "title": "chiken mod 2023 ",
+	 "text": "Create a mod for a popular strategy game where chickens invade the game world. Players must strategize and defend their territories against these whimsical yet formidable foes.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -57,9 +57,9 @@
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdcXTZl.webp",
+	 "title": "chiken mod 2023 ",
+	 "text": "Design a mod for role-playing games where players can choose a chicken-themed character with unique abilities, quests, and challenges. The character could have special powers related to clucking, pecking, or summoning other chickens.",
 	 "text_two": "xxxx",
 
 	 "isLocked": true,
@@ -67,9 +67,9 @@
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdcXoyG.webp",
+	 "title": "chiken mod 2023 ",
+	 "text": "Introduce a mod for simulation games that allows players to have chickens as pets. These virtual chickens could lay eggs, follow players around, and even perform special tricks.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -77,9 +77,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdcXnvs.webp",
+	 "title": "chiken mod 2023 ",
+	 "text": "Implement a mod for racing games where players can participate in chicken races. Customize your chicken racer, compete in poultry-themed tracks, and use special chicken-centric power-ups.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -87,9 +87,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdcXIj4.webp",
+	 "title": "chiken mod 2023 ",
+	 "text": "Develop a farming simulation mod where players can run a chicken farm. Manage the hatching, feeding, and selling of chickens, while dealing with challenges like fox attacks or unusual weather conditions.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -97,9 +97,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdcXzuf.webp",
+	 "title": "chiken mod 2023 ",
+	 "text": "Create a mod for stealth games where players take on the role of a chicken involved in a covert operation. Sneak around, avoid guards, and accomplish chicken-themed missions.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
